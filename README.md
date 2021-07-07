@@ -1,2 +1,2 @@
 # calculatorv2
-a simple calculator x)
+just for train ;)
